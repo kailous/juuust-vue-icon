@@ -1,4 +1,4 @@
-# juuust-vue-icon
+# polyvoly-icon
 
 ## Project setup
 ```
